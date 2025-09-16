@@ -1,0 +1,9 @@
+[submodule "init.sh"]
+	path = init.sh
+	url = https://github.com/0dayminusone/init.sh.git
+[submodule "folder-checker.sh"]
+	path = folder-checker.sh
+	url = https://github.com/0dayminusone/folder-checker.sh.git
+[submodule "tailscalemon.sh"]
+	path = tailscalemon.sh
+	url = https://github.com/0dayminusone/tailscalemon.sh.git
